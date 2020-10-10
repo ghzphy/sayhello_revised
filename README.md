@@ -1,6 +1,7 @@
 ## 创建虚拟环境
 命令:
      python3 -m venv venv
+     
      source venv/bin/activate
 
 ## 运行
